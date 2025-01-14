@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luis Eduardo 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/devluisgarcia)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devluisgarcia/)
 
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgarcia723&show_icons=true&theme=dracula)
 
